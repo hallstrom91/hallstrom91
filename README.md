@@ -6,28 +6,28 @@ Hello, and thank you for visiting! I'm Simon, currently based in Stockholm, Swed
 
 - 🎓 **Education:** Currently enrolled in a 2-year program at [Jensen YH](https://www.jensenyh.se/vara-utbildningar/frontendutvecklare-webbsakerhet).
 - 🛡️ **Specialization:** Frontend Development with a focus on Web Security.
-- 📆 **Graduation:** Expected in Summer 2025.
+- 📆 **Graduation:** Expected in Summer 2025. (Class FWK23S)
 - 🌍 **Location:** Stockholm, Sweden.
 
 ### Professional Focus 🔍
 My primary interest lies in the security aspects of development. I'm actively enhancing my skills in:
 
-#### Frontend Technologies:
+#### `Frontend Technologies:`
 - HTML5
 - CSS3
 - Vanilla JavaScript
-#### JavaScript Libraries and Frameworks:
+#### `JavaScript Libraries and Frameworks:`
 - React
-#### Build Tools:
+#### `Build Tools:`
 - Vite
-#### Styling Frameworks:
+#### `Styling Frameworks:`
 - Tailwind CSS
 - Bootstrap
-#### Backend Development:
+#### `Backend Development:`
 - Node.js
-#### APIs:
+#### `APIs:`
 - REST APIs
-#### Exploration and Learning:
+#### `Exploration and Learning:`
 - Python Programming
 
 ## Seeking Opportunities 🌐
